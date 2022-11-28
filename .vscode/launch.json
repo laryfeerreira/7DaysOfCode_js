@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://C:\\Users\\l.da.silva.ferreira\\Desktop\\Projetos de código\\7DaysOfCode_js\\main.js",
+            "request": "launch",
+            "url": "http://C:\\Users\\l.da.silva.ferreira\\Desktop\\Projetos de código\\7DaysOfCode_js\\main.js"
+        }
+    ]
+}
